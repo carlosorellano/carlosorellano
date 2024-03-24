@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Carlos Orellano
+- 👋 Hello, I'm Andres Orellano
 - 👀 I am interested in... Web Development jobs
 - 🌱 I am currently learning... New technologies for mobile development
 - 💞️ I am looking to collaborate on... Frontend projects for web and apps
